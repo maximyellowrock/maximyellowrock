@@ -58,7 +58,7 @@ I enjoy building end-to-end analytics projects, automating workflows, and creati
 
 ## 📊 GitHub Stats
 
-![Maxim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximyellowrock&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximyellowrock&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Streak
 
@@ -70,8 +70,11 @@ I enjoy building end-to-end analytics projects, automating workflows, and creati
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=maximyellowrock&theme=tokyonight&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maximyellowrock&theme=tokyonight&no-frame=true&row=1&column=7)
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximyellowrock&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ## 📫 Connect With Me
