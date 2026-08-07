@@ -60,7 +60,7 @@ I enjoy building end-to-end analytics projects, automating workflows, and creati
 
 - 💼 LinkedIn: https://www.linkedin.com/in/maxim-irinov-453854176/
 - 💻 GitHub: https://github.com/maximyellowrock
-
+- 🎵 Suno AI: https://suno.com/@maximyellowrock
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maximyellowrock&label=Profile%20Views&color=0e75b6&style=flat)
