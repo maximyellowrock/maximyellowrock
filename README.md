@@ -58,7 +58,7 @@ I enjoy building end-to-end analytics projects, automating workflows, and creati
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *([Add your LinkedIn URL here](https://www.linkedin.com/in/maxim-irinov-453854176/))*
+- 💼 LinkedIn: (https://www.linkedin.com/in/maxim-irinov-453854176/)
 - 💻 GitHub: https://github.com/maximyellowrock
 
 ---
