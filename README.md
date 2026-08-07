@@ -126,8 +126,6 @@ My long-term goal is to combine **Data Analytics, Business Intelligence, AI, and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim_Irinov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-irinov-453854176/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-maximyellowrock-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maximyellowrock)
-
 [![Suno AI](https://img.shields.io/badge/Suno_AI-maximyellowrock-000000?style=for-the-badge)](https://suno.com/@maximyellowrock)
 
 </div>
