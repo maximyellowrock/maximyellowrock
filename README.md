@@ -1,4 +1,4 @@
-# Hi there, I'm Maxim Irinov 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Maxim+Irinov;Data+Analyst;Business+Intelligence;AI+Automation;SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
 
 ## Data Analyst | Business Intelligence | AI Automation
 
@@ -55,6 +55,24 @@ I enjoy building end-to-end analytics projects, automating workflows, and creati
 - n8n Workflows
 
 ---
+
+## 📊 GitHub Stats
+
+![Maxim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximyellowrock&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=maximyellowrock&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maximyellowrock&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=maximyellowrock&theme=tokyonight&no-frame=true&margin-w=10)
+
+
 
 ## 📫 Connect With Me
 
