@@ -73,7 +73,7 @@ End-to-end sales analytics project covering data cleaning, dimensional modelling
 
 <div align="center">
 
-<img src="images/userstats.svg" alt="Maxim's GitHub Statistics" />
+<img src="images/userstats.svg?v=2" alt="Maxim's GitHub Statistics" />
 
 </div>
 
