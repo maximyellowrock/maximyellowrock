@@ -69,11 +69,13 @@ End-to-end sales analytics project covering data cleaning, dimensional modelling
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=maximyellowrock&theme=tokyo-night&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximyellowrock&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximyellowrock&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
