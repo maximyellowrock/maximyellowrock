@@ -68,6 +68,15 @@ End-to-end sales analytics project covering data cleaning, dimensional modelling
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="images/userstats.svg" alt="Maxim's GitHub Statistics" />
+
+</div>
+
 ---
 
 ## 👀 Profile Visitors
