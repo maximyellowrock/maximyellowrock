@@ -20,5 +20,6 @@ jobs:
         with:
           colors: dark
           include-title: false
+          featured-repository: finance-analytics-dashboard
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
