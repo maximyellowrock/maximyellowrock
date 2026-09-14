@@ -92,7 +92,7 @@ End-to-end sales analytics project covering data cleaning, dimensional modelling
 ## 💼 Freelance Profiles
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01f0aedebaeede5c1c?mp_source=share">
+  <a href="https://www.upwork.com/freelancers/~01f0aedebaeede5c1c">
     <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 
