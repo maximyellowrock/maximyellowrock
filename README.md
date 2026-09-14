@@ -89,6 +89,19 @@ End-to-end sales analytics project covering data cleaning, dimensional modelling
 
 ---
 
+## 💼 Freelance Profiles
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01f0aedebaeede5c1c?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+
+  <a href="https://www.fiverr.com/pardus263">
+    <img src="https://img.shields.io/badge/Fiverr-pardus263-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
+---
+
 ## 🤖 AI Automation Roadmap
 
 Currently developing skills in:
