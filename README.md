@@ -59,6 +59,24 @@ End-to-end sales analytics project covering data cleaning, dimensional modelling
 
 ---
 
+## 📊 Featured Financial Modelling Project
+
+### 3-Statement Financial Model & Forecasting
+Built an integrated Excel-based financial model connecting the **Income Statement, Balance Sheet, and Cash Flow Statement** with:
+
+- 2026A–2031E financial forecasting
+- Base / Upside / Downside scenario analysis
+- Working capital modelling using DSO, DIO, and DPO
+- Financial ratios and KPI analysis
+- Monthly forecasting
+- Actual vs Budget vs Latest Estimate analysis
+- Automated Balance Sheet and Cash reconciliation checks
+- Executive Summary dashboard
+
+🔗 [View Project](https://github.com/maximyellowrock/Finance-Model-Forecast-Excel)
+**Skills:** Excel | Financial Modelling | FP&A | Forecasting | Budgeting | Variance Analysis | Financial Statement Analysis
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
