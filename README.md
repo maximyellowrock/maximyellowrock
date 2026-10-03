@@ -27,6 +27,8 @@ Building expertise in **AI automation, data engineering and intelligent analytic
 
 ---
 
+![Technology stack neon panel](assets/tech-panel.svg)
+
 ## 🧰 Technology Stack
 
 <div align="center">
@@ -49,6 +51,8 @@ Building expertise in **AI automation, data engineering and intelligent analytic
 
 ---
 
+![Featured projects neon panel](assets/projects-panel.svg)
+
 ## ⭐ Featured Projects
 
 ### 💰 [Finance Analytics Dashboard](https://github.com/maximyellowrock/finance-analytics-dashboard)
@@ -69,6 +73,8 @@ Exploring workflow orchestration, REST APIs, webhooks, Python, FastAPI, PostgreS
 
 ---
 
+![GitHub activity neon panel](assets/activity-panel.svg)
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -80,6 +86,8 @@ Exploring workflow orchestration, REST APIs, webhooks, Python, FastAPI, PostgreS
 </div>
 
 ---
+
+![Learning neon panel](assets/learning-panel.svg)
 
 ## 🌱 Currently Learning
 
