@@ -101,7 +101,7 @@ Built an integrated Excel-based financial model connecting the **Income Statemen
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=maximyellowrock&label=Profile%20views&color=blue)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=maximyellowrock.maximyellowrock)
 </div>
 
 ---
