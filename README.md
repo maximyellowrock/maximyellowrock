@@ -1,18 +1,33 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Maxim+Irinov;Data+Analyst;Business+Intelligence;AI+Automation;SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
+![Maxim Irinov neon banner](assets/neon-header.svg)
 
-# Data Analyst | Business Intelligence | AI Automation
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61D9FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Intelligence;Financial+Analytics+%7C+SQL+%7C+Power+BI;Learning+AI+Automation+%7C+Python+%7C+n8n)](https://git.io/typing-svg)
 
-Economics graduate focused on transforming data into actionable business insights through **SQL, Python, Power BI, and Business Intelligence**.
+Economics graduate turning complex data into clear financial insights and practical business solutions.  
+Building expertise in **AI automation, data engineering and intelligent analytics workflows**.
 
-I am continuously developing my skills in **AI Automation, Machine Learning, Data Engineering, and modern analytics workflows**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-irinov-453854176/)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f0aedebaeede5c1c)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/pardus263)
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ AI Automation System Architecture
+
+<div align="center">
+
+![Animated AI automation architecture](assets/automation-architecture.svg)
+
+*Reference architecture and learning direction — not a claim that every component is deployed in production.*
+
+</div>
+
+---
+
+## 🧰 Technology Stack
 
 <div align="center">
 
@@ -20,16 +35,15 @@ I am continuously developing my skills in **AI Automation, Machine Learning, Dat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI-Automation-8A2BE2?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -37,133 +51,52 @@ I am continuously developing my skills in **AI Automation, Machine Learning, Dat
 
 ## ⭐ Featured Projects
 
-### 💰 Finance Analytics Dashboard
-
-End-to-end finance analytics project focused on financial reporting, data modelling, validation, and executive-level KPI analysis.
-
-**Technologies:**  
-`SQL Server` `Power BI` `ETL` `Star Schema` `Data Validation` `Financial Analysis`
-
-🔗 [View Finance Analytics Project](https://github.com/maximyellowrock/finance-analytics-dashboard)
-
----
+### 💰 [Finance Analytics Dashboard](https://github.com/maximyellowrock/finance-analytics-dashboard)
+End-to-end financial reporting, data modelling, validation and executive-level KPI analysis.  
+`SQL Server` `Power BI` `ETL` `Star Schema` `Financial Analysis`
 
 ### 📈 Sales Analytics Dashboard
+Sales data cleaning, dimensional modelling, SQL analysis and interactive Power BI reporting.  
+`SQL Server` `Power BI` `ETL` `Star Schema` `Sales Analytics`  
+[Explore repositories](https://github.com/maximyellowrock?tab=repositories)
 
-End-to-end sales analytics project covering data cleaning, dimensional modelling, SQL analysis, and interactive Power BI reporting.
+### 📊 [Three-Statement Financial Model & Forecasting](https://github.com/maximyellowrock/Finance-Model-Forecast-Excel)
+Integrated Income Statement, Balance Sheet and Cash Flow Statement, with **2026A–2031E forecasts**, scenario analysis, working capital metrics (DSO / DIO / DPO), financial ratios and reconciliation checks.  
+`Excel` `FP&A` `Forecasting` `Budgeting` `Variance Analysis`
 
-**Technologies:**  
-`SQL Server` `Power BI` `ETL` `Star Schema` `Data Cleaning` `Sales Analytics`
-
-🔗 [View My GitHub Projects](https://github.com/maximyellowrock)
+### 🤖 AI Automation Lab — Learning in Progress
+Exploring workflow orchestration, REST APIs, webhooks, Python, FastAPI, PostgreSQL, Docker and reliable automation patterns.
 
 ---
 
-## 📊 Featured Financial Modelling Project
-
-### 3-Statement Financial Model & Forecasting
-Built an integrated Excel-based financial model connecting the **Income Statement, Balance Sheet, and Cash Flow Statement** with:
-
-- 2026A–2031E financial forecasting
-- Base / Upside / Downside scenario analysis
-- Working capital modelling using DSO, DIO, and DPO
-- Financial ratios and KPI analysis
-- Monthly forecasting
-- Actual vs Budget vs Latest Estimate analysis
-- Automated Balance Sheet and Cash reconciliation checks
-- Executive Summary dashboard
-
-🔗 [View Project](https://github.com/maximyellowrock/Finance-Model-Forecast-Excel)
-**Skills:** Excel | Financial Modelling | FP&A | Forecasting | Budgeting | Variance Analysis | Financial Statement Analysis
----
-
-## 🔥 GitHub Streak
+## 📈 GitHub Activity
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=maximyellowrock&theme=tokyonight&hide_border=true)
 
+<img src="https://raw.githubusercontent.com/maximyellowrock/maximyellowrock/refs/heads/main/images/userstats.svg?v=3" alt="Maxim's GitHub Statistics" />
+
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maximyellowrock/maximyellowrock/refs/heads/main/images/userstats.svg?v=3"
-     alt="Maxim's GitHub Statistics" />
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=maximyellowrock.maximyellowrock)
-</div>
-
----
-
-## 💼 Freelance Profiles
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01f0aedebaeede5c1c">
-    <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-
-  <a href="https://www.fiverr.com/pardus263">
-    <img src="https://img.shields.io/badge/Fiverr-pardus263-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</p>
----
-
-## 🤖 AI Automation Roadmap
-
-Currently developing skills in:
-
-- AI Automation
-- n8n Workflows
-- LLM APIs
-- ChatGPT & Claude
-- FastAPI
-- RAG
-- AI Agents
-- Machine Learning
-- Predictive Analytics
-- Forecasting & Time Series
-- Data Engineering
-
-My long-term goal is to combine **Data Analytics, Business Intelligence, AI, and Automation** to build intelligent data-driven business solutions.
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🤖 AI Automation
-- 🧠 Machine Learning
-- ⚙️ Data Engineering
-- 🚀 FastAPI
-- 🔗 RAG & AI Agents
-- 📈 Forecasting & Time Series
+`n8n Workflows` · `API Integration` · `FastAPI` · `PostgreSQL` · `Data Engineering` · `Machine Learning` · `RAG & AI Agents`
+
+**Goal:** Combine data analytics, finance, business intelligence and AI automation to build intelligent, practical business solutions.
 
 ---
 
-## 📫 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim_Irinov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-irinov-453854176/)
+### 👀 Profile Visitors
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=maximyellowrock.maximyellowrock)
 
 [![Suno AI](https://img.shields.io/badge/Suno_AI-maximyellowrock-000000?style=for-the-badge)](https://suno.com/@maximyellowrock)
 
-</div>
-
----
-
-<div align="center">
-
-### Turning data into insights. Building toward intelligent automation.
+**Turning data into insights. Building toward intelligent automation.**
 
 </div>
