@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="393" viewBox="0 0 960 393">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08172b"/><stop offset="1" stop-color="#182b4c"/></linearGradient><linearGradient id="edge"><stop stop-color="#19c9fa"/><stop offset="1" stop-color="#9a72ff"/></linearGradient></defs>
+<rect x="2" y="2" width="956" height="389" rx="22" fill="url(#bg)" stroke="url(#edge)" stroke-width="3"/>
+<text x="38" y="49" font-size="28" font-weight="bold" font-family="Arial,sans-serif" fill="#e7f7ff">TECHNOLOGY STACK</text>
+<text x="39" y="78" font-size="16" font-family="Arial,sans-serif" fill="#8eb5d7">Analytics  /  Development  /  Automation</text>
+<rect x="34" y="105" width="892" height="57" rx="12" fill="#1b3455" stroke="#32618a"/>
+<circle cx="57" cy="133" r="6" fill="#41d4fa"/>
+<text x="78" y="129" font-size="18" font-weight="bold" font-family="Arial,sans-serif" fill="#f2f9ff">DATA &amp; ANALYTICS</text>
+<text x="78" y="150" font-size="14" font-family="Arial,sans-serif" fill="#acc8e2">SQL Server  •  Python  •  Power BI  •  Excel</text>
+<rect x="34" y="171" width="892" height="57" rx="12" fill="#1b3455" stroke="#32618a"/>
+<circle cx="57" cy="199" r="6" fill="#a986ff"/>
+<text x="78" y="195" font-size="18" font-weight="bold" font-family="Arial,sans-serif" fill="#f2f9ff">PYTHON ECOSYSTEM</text>
+<text x="78" y="216" font-size="14" font-family="Arial,sans-serif" fill="#acc8e2">pandas  •  NumPy  •  Matplotlib  •  Plotly</text>
+<rect x="34" y="237" width="892" height="57" rx="12" fill="#1b3455" stroke="#32618a"/>
+<circle cx="57" cy="265" r="6" fill="#4ce5b1"/>
+<text x="78" y="261" font-size="18" font-weight="bold" font-family="Arial,sans-serif" fill="#f2f9ff">AUTOMATION LAB</text>
+<text x="78" y="282" font-size="14" font-family="Arial,sans-serif" fill="#acc8e2">n8n  •  REST APIs  •  Webhooks  •  FastAPI</text>
+<rect x="34" y="303" width="892" height="57" rx="12" fill="#1b3455" stroke="#32618a"/>
+<circle cx="57" cy="331" r="6" fill="#f9bb69"/>
+<text x="78" y="327" font-size="18" font-weight="bold" font-family="Arial,sans-serif" fill="#f2f9ff">ENGINEERING TOOLS</text>
+<text x="78" y="348" font-size="14" font-family="Arial,sans-serif" fill="#acc8e2">Git  •  GitHub  •  Docker  •  PostgreSQL</text>
+</svg>
