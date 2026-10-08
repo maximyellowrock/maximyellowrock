@@ -3,7 +3,6 @@
 
 ![Maxim Irinov — London neon banner](assets/welcome-london.png)
 
-# Hi, I'm Maxim Irinov 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=36D7FF&center=true&vCenter=true&width=850&lines=Financial+Analytics+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Financial+Modelling+%7C+FP%26A+%7C+Automation;Building+Intelligent+Business+Workflows)](https://git.io/typing-svg)
 
